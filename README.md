@@ -61,9 +61,6 @@ The TF-IDF value for a term is calculated by multiplying two metrics:
 
 The final **TF-IDF** score for a term is the product of the term frequency and inverse document frequency:
 
-$$
-\text{TF-IDF}(t, d) = TF(t, d) \times IDF(t)
-$$
 ---
 
 By applying this formula, TF-IDF identifies important words in the document that are also relatively unique across the corpus.
