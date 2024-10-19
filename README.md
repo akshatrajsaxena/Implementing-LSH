@@ -81,3 +81,5 @@ This step evaluates the performance of the LSH implementation by comparing its r
 - Calculating **intersection scores** between the predicted and actual similar items for each document.
 - Computing the **average score** across all documents to assess the overall model performance.
 
+[Github Link](https://github.com/akshatrajsaxena/Implementing-LSH)
+
