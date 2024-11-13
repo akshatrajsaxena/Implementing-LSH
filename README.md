@@ -80,6 +80,3 @@ For text data, **MinHash** is commonly employed. It creates multiple hash functi
 This step evaluates the performance of the LSH implementation by comparing its results to the provided ground truth in the `items.json` file. The evaluation process involves:
 - Calculating **intersection scores** between the predicted and actual similar items for each document.
 - Computing the **average score** across all documents to assess the overall model performance.
-
-[Github Link](https://github.com/akshatrajsaxena/Implementing-LSH)
-
